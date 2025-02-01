@@ -1,4 +1,4 @@
-# <b>laiboatVS001</b>
+# <strong>laiboatVS001</strong>
 
 ## 这是作者的朋友为纪念712班制作的游戏，本人负责发布，喜欢就给个Star吧！
 
